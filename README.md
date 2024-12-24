@@ -1,8 +1,9 @@
-# React + Vite
+# ertdfgcvb's React Playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the underrated legendary [@ertdfgcvb](https://github.com/ertdfgcvb?tab=repositories)'s [play.core](https://play.ertdfgcvb.xyz) implemented in React.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To start, change `src>ertdfgcvb program.js` with your playground code.
+
+> [!IMPORTANT]
+> the modules are present at `./assets/ertdfgcvb/src/modules/`. Make sure to import them before using them.
