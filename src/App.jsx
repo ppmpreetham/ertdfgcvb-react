@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <ErtdfgcvbBG />    
+      <ErtdfgcvbBG />
     </>
   )
 }
