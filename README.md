@@ -7,3 +7,7 @@ To start, change `src>ertdfgcvb program.js` with your playground code.
 
 > [!IMPORTANT]
 > the modules are present at `./assets/ertdfgcvb/src/modules/`. Make sure to import them before using them.
+
+## Demo
+![alt text](public/image.png)
+<video controls src="public/demo.mp4" title="Title"></video>
