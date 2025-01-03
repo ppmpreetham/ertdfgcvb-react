@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
-import { run } from './assets/ertdfgcvb/src/run.js';
-import * as program from './ertdfgcvb program.js';
-import './assets/ertdfgcvb/style.css';
+import { run } from './ertdfgcvb/run.js';
+import * as program from '../src/ertdfgcvb/programsJS/cube.js';
+import '../src/ertdfgcvb/style.css';
 
 const ErtdfgcvbBG = () => {
     useEffect(() => {

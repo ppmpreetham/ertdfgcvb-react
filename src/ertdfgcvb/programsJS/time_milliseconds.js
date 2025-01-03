@@ -117,7 +117,7 @@ export function main(coord, context, cursor, buffer) {
 }
 
 
-// import { drawInfo } from '../modules/drawbox.js'
+// import { drawInfo } from '../../modules/drawbox.js'
 // export function post(context, cursor, buffer) {
 // 	// drawInfo(context, cursor, buffer, {
 // 	// 	color : 'white', backgroundColor : 'royalblue', shadowStyle : 'gray'

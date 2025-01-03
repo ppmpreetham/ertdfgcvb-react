@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <ErtdfgcvbBG />
+      <ErtdfgcvbBG className='w-full h-full'/>
     </>
   )
 }
